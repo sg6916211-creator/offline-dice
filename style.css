@@ -1975,3 +1975,4 @@ body.blur-active header img[src="offlinetext.png"] {
 body.blur-active header img[src="offlinetext.png"]:hover {
   filter: blur(0px) !important;
 }
+
